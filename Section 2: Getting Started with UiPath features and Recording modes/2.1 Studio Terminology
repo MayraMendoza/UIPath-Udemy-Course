@@ -1,0 +1,18 @@
+1. Creating blank Process in UIPath for automation 
+Studio Terminology 
+
+Process - Project/Workspace which stores all files. 
+Stands for a container where you can create your workflow and have reusable components and dependencies.
+
+Dependencies - Libraries to support Automation.
+
+Xaml - Design Automation workflow 
+
+Project.json 0 Project information and Metadata to publish process
+Activities - UiPath core packages for designing workflow 
+
+Properties - Properties list for selected Activity
+
+Outline - Output console to log workflow results 
+
+Ribbon Menu - UiPath tool features 
